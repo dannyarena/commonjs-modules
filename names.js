@@ -4,3 +4,4 @@ function createName(firstName, lastName){
         lastName: lastName
     }
 }
+module.exports = createName;
