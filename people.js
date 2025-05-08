@@ -10,3 +10,5 @@ function createPerson ( ) {
         hobbies: hobbies
     };
 }
+
+module.exports = createPerson;
